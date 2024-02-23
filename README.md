@@ -18,8 +18,10 @@ As I said earlier, everything is send as a plain text, so be careful with that.
 More technical things below, like how to setup or smthn... 
 
 First, if you only want to test it localy, you can just set:
+
             HOST = 127.0.0.1
             PORT = 10001
+            
 In both files (server.py and client.py)
 
 If you want to set it up in a local network, first, set up server. check your IP adres
